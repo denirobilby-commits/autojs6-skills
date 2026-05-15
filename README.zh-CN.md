@@ -1,5 +1,9 @@
 # AutoJs6 Skills
 
+<p align="center">
+  <img src="https://s1.imagehub.cc/images/2023/03/07/af8ed087c9d354b9ab6142aae7bbafb6.png" alt="AutoJs6" width="704">
+</p>
+
 语言：[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
 用于 Codex/Agent 的 AutoJs6 技能包，可基于内置的分版本离线文档回答 AutoJs6 与 Auto.js 脚本相关问题。
