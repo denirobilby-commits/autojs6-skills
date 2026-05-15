@@ -1,0 +1,649 @@
+{
+  "version": "6.6.4",
+  "page_count": 107,
+  "chunk_count": 3381,
+  "pages": [
+    {
+      "title": "页面不存在",
+      "html": "raw/404.html",
+      "markdown": "clean/pages/404.md",
+      "chunks": 1
+    },
+    {
+      "title": "活动 (Activity)",
+      "html": "raw/activity.html",
+      "markdown": "clean/pages/activity.md",
+      "chunks": 1
+    },
+    {
+      "title": "综述 (Overview)",
+      "html": "raw/all.html",
+      "markdown": "clean/pages/all.md",
+      "chunks": 0
+    },
+    {
+      "title": "AndroidBundle",
+      "html": "raw/androidBundleType.html",
+      "markdown": "clean/pages/androidBundleType.md",
+      "chunks": 1
+    },
+    {
+      "title": "AndroidRect",
+      "html": "raw/androidRectType.html",
+      "markdown": "clean/pages/androidRectType.md",
+      "chunks": 27
+    },
+    {
+      "title": "安卓 API 级别 (Android API Level)",
+      "html": "raw/apiLevel.html",
+      "markdown": "clean/pages/apiLevel.md",
+      "chunks": 2
+    },
+    {
+      "title": "通用应用 (App)",
+      "html": "raw/app.html",
+      "markdown": "clean/pages/app.md",
+      "chunks": 27
+    },
+    {
+      "title": "应用枚举类 (App)",
+      "html": "raw/appType.html",
+      "markdown": "clean/pages/appType.md",
+      "chunks": 27
+    },
+    {
+      "title": "Arrayx (Array 扩展)",
+      "html": "raw/arrayx.html",
+      "markdown": "clean/pages/arrayx.md",
+      "chunks": 30
+    },
+    {
+      "title": "AutoJs6 本体应用",
+      "html": "raw/autojs.html",
+      "markdown": "clean/pages/autojs.md",
+      "chunks": 35
+    },
+    {
+      "title": "自动化 (Automator)",
+      "html": "raw/automator.html",
+      "markdown": "clean/pages/automator.md",
+      "chunks": 47
+    },
+    {
+      "title": "条码 (Barcode)",
+      "html": "raw/barcode.html",
+      "markdown": "clean/pages/barcode.md",
+      "chunks": 1
+    },
+    {
+      "title": "Base64",
+      "html": "raw/base64.html",
+      "markdown": "clean/pages/base64.md",
+      "chunks": 6
+    },
+    {
+      "title": "画布 (Canvas)",
+      "html": "raw/canvas.html",
+      "markdown": "clean/pages/canvas.md",
+      "chunks": 39
+    },
+    {
+      "title": "文档更新日志 (Changelog)",
+      "html": "raw/changelog.html",
+      "markdown": "clean/pages/changelog.md",
+      "chunks": 15
+    },
+    {
+      "title": "颜色 (Color)",
+      "html": "raw/color.html",
+      "markdown": "clean/pages/color.md",
+      "chunks": 176
+    },
+    {
+      "title": "颜色列表 (Color Table)",
+      "html": "raw/colorTable.html",
+      "markdown": "clean/pages/colorTable.md",
+      "chunks": 32
+    },
+    {
+      "title": "Color (颜色类)",
+      "html": "raw/colorType.html",
+      "markdown": "clean/pages/colorType.md",
+      "chunks": 132
+    },
+    {
+      "title": "控制台 (Console)",
+      "html": "raw/console.html",
+      "markdown": "clean/pages/console.md",
+      "chunks": 99
+    },
+    {
+      "title": "ConsoleBuildOptions",
+      "html": "raw/consoleBuildOptionsType.html",
+      "markdown": "clean/pages/consoleBuildOptionsType.md",
+      "chunks": 19
+    },
+    {
+      "title": "上下文 (Context)",
+      "html": "raw/context.html",
+      "markdown": "clean/pages/context.md",
+      "chunks": 1
+    },
+    {
+      "title": "协程 (Continuation)",
+      "html": "raw/continuation.html",
+      "markdown": "clean/pages/continuation.md",
+      "chunks": 1
+    },
+    {
+      "title": "[AutoJs6](http://project.autojs6.com)",
+      "html": "raw/coverpage.html",
+      "markdown": "clean/pages/coverpage.md",
+      "chunks": 1
+    },
+    {
+      "title": "密文 (Crypto)",
+      "html": "raw/crypto.html",
+      "markdown": "clean/pages/crypto.md",
+      "chunks": 26
+    },
+    {
+      "title": "CryptoCipherOptions",
+      "html": "raw/cryptoCipherOptionsType.html",
+      "markdown": "clean/pages/cryptoCipherOptionsType.md",
+      "chunks": 6
+    },
+    {
+      "title": "CryptoKeyPair",
+      "html": "raw/cryptoKeyPairType.html",
+      "markdown": "clean/pages/cryptoKeyPairType.md",
+      "chunks": 5
+    },
+    {
+      "title": "CryptoKey",
+      "html": "raw/cryptoKeyType.html",
+      "markdown": "clean/pages/cryptoKeyType.md",
+      "chunks": 6
+    },
+    {
+      "title": "数据类型 (Data Types)",
+      "html": "raw/dataTypes.html",
+      "markdown": "clean/pages/dataTypes.md",
+      "chunks": 120
+    },
+    {
+      "title": "设备 (Device)",
+      "html": "raw/device.html",
+      "markdown": "clean/pages/device.md",
+      "chunks": 47
+    },
+    {
+      "title": "对话框 (Dialogs)",
+      "html": "raw/dialogs.html",
+      "markdown": "clean/pages/dialogs.md",
+      "chunks": 28
+    },
+    {
+      "title": "关于文档 (About)",
+      "html": "raw/documentation.html",
+      "markdown": "clean/pages/documentation.md",
+      "chunks": 35
+    },
+    {
+      "title": "E4X",
+      "html": "raw/e4x.html",
+      "markdown": "clean/pages/e4x.md",
+      "chunks": 1
+    },
+    {
+      "title": "引擎 (Engines)",
+      "html": "raw/engines.html",
+      "markdown": "clean/pages/engines.md",
+      "chunks": 21
+    },
+    {
+      "title": "事件发射器 (EventEmitter)",
+      "html": "raw/eventEmitterType.html",
+      "markdown": "clean/pages/eventEmitterType.md",
+      "chunks": 1
+    },
+    {
+      "title": "事件监听 (Events)",
+      "html": "raw/events.html",
+      "markdown": "clean/pages/events.md",
+      "chunks": 54
+    },
+    {
+      "title": "异常 (Exceptions)",
+      "html": "raw/exceptions.html",
+      "markdown": "clean/pages/exceptions.md",
+      "chunks": 38
+    },
+    {
+      "title": "文件 (Files)",
+      "html": "raw/files.html",
+      "markdown": "clean/pages/files.md",
+      "chunks": 41
+    },
+    {
+      "title": "悬浮窗 (Floaty)",
+      "html": "raw/floaty.html",
+      "markdown": "clean/pages/floaty.md",
+      "chunks": 24
+    },
+    {
+      "title": "全局对象 (Global)",
+      "html": "raw/global.html",
+      "markdown": "clean/pages/global.md",
+      "chunks": 184
+    },
+    {
+      "title": "术语 (Glossaries)",
+      "html": "raw/glossaries.html",
+      "markdown": "clean/pages/glossaries.md",
+      "chunks": 44
+    },
+    {
+      "title": "HTTP",
+      "html": "raw/http.html",
+      "markdown": "clean/pages/http.md",
+      "chunks": 15
+    },
+    {
+      "title": "HTTP Header (HTTP 标头)",
+      "html": "raw/httpHeaderGlossary.html",
+      "markdown": "clean/pages/httpHeaderGlossary.md",
+      "chunks": 3
+    },
+    {
+      "title": "HttpRequestBuilderOptions",
+      "html": "raw/httpRequestBuilderOptionsType.html",
+      "markdown": "clean/pages/httpRequestBuilderOptionsType.md",
+      "chunks": 2
+    },
+    {
+      "title": "HttpRequestHeaders",
+      "html": "raw/httpRequestHeadersType.html",
+      "markdown": "clean/pages/httpRequestHeadersType.md",
+      "chunks": 34
+    },
+    {
+      "title": "HTTP Request Methods (HTTP 请求方法)",
+      "html": "raw/httpRequestMethodsGlossary.html",
+      "markdown": "clean/pages/httpRequestMethodsGlossary.md",
+      "chunks": 10
+    },
+    {
+      "title": "HttpResponseBody",
+      "html": "raw/httpResponseBodyType.html",
+      "markdown": "clean/pages/httpResponseBodyType.md",
+      "chunks": 1
+    },
+    {
+      "title": "HttpResponseHeaders",
+      "html": "raw/httpResponseHeadersType.html",
+      "markdown": "clean/pages/httpResponseHeadersType.md",
+      "chunks": 41
+    },
+    {
+      "title": "HttpResponse",
+      "html": "raw/httpResponseType.html",
+      "markdown": "clean/pages/httpResponseType.md",
+      "chunks": 14
+    },
+    {
+      "title": "国际化 (Internationalization)",
+      "html": "raw/i18n.html",
+      "markdown": "clean/pages/i18n.md",
+      "chunks": 1
+    },
+    {
+      "title": "图像 (Images)",
+      "html": "raw/image.html",
+      "markdown": "clean/pages/image.md",
+      "chunks": 58
+    },
+    {
+      "title": "包装图像类 (ImageWrapper)",
+      "html": "raw/imageWrapperType.html",
+      "markdown": "clean/pages/imageWrapperType.md",
+      "chunks": 3
+    },
+    {
+      "title": "Index",
+      "html": "raw/index.html",
+      "markdown": "clean/pages/index.md",
+      "chunks": 2
+    },
+    {
+      "title": "InjectableWebClient",
+      "html": "raw/injectableWebClientType.html",
+      "markdown": "clean/pages/injectableWebClientType.md",
+      "chunks": 5
+    },
+    {
+      "title": "InjectableWebView",
+      "html": "raw/injectableWebViewType.html",
+      "markdown": "clean/pages/injectableWebViewType.md",
+      "chunks": 3
+    },
+    {
+      "title": "意图 (Intent)",
+      "html": "raw/intentType.html",
+      "markdown": "clean/pages/intentType.md",
+      "chunks": 1
+    },
+    {
+      "title": "按键 (Keys)",
+      "html": "raw/keys.html",
+      "markdown": "clean/pages/keys.md",
+      "chunks": 23
+    },
+    {
+      "title": "AutoJs6 使用手册 (Manual)",
+      "html": "raw/manual.html",
+      "markdown": "clean/pages/manual.md",
+      "chunks": 1
+    },
+    {
+      "title": "Mathx (Math 扩展)",
+      "html": "raw/mathx.html",
+      "markdown": "clean/pages/mathx.md",
+      "chunks": 34
+    },
+    {
+      "title": "多媒体 (Media)",
+      "html": "raw/media.html",
+      "markdown": "clean/pages/media.md",
+      "chunks": 10
+    },
+    {
+      "title": "MIME Type (MIME 类型)",
+      "html": "raw/mimeTypeGlossary.html",
+      "markdown": "clean/pages/mimeTypeGlossary.md",
+      "chunks": 41
+    },
+    {
+      "title": "模块 (Module)",
+      "html": "raw/modules.html",
+      "markdown": "clean/pages/modules.md",
+      "chunks": 1
+    },
+    {
+      "title": "消息通知 (Notice)",
+      "html": "raw/notice.html",
+      "markdown": "clean/pages/notice.md",
+      "chunks": 41
+    },
+    {
+      "title": "NoticeBuilder",
+      "html": "raw/noticeBuilderType.html",
+      "markdown": "clean/pages/noticeBuilderType.md",
+      "chunks": 34
+    },
+    {
+      "title": "NoticeChannelOptions",
+      "html": "raw/noticeChannelOptionsType.html",
+      "markdown": "clean/pages/noticeChannelOptionsType.md",
+      "chunks": 10
+    },
+    {
+      "title": "NoticeOptions",
+      "html": "raw/noticeOptionsType.html",
+      "markdown": "clean/pages/noticeOptionsType.md",
+      "chunks": 11
+    },
+    {
+      "title": "NoticePresetConfiguration",
+      "html": "raw/noticePresetConfigurationType.html",
+      "markdown": "clean/pages/noticePresetConfigurationType.md",
+      "chunks": 19
+    },
+    {
+      "title": "Notification Channel (通知渠道)",
+      "html": "raw/notificationChannelGlossary.html",
+      "markdown": "clean/pages/notificationChannelGlossary.md",
+      "chunks": 5
+    },
+    {
+      "title": "Numberx (Number 扩展)",
+      "html": "raw/numberx.html",
+      "markdown": "clean/pages/numberx.md",
+      "chunks": 27
+    },
+    {
+      "title": "光学字符识别 (OCR)",
+      "html": "raw/ocr.html",
+      "markdown": "clean/pages/ocr.md",
+      "chunks": 28
+    },
+    {
+      "title": "OcrOptions",
+      "html": "raw/ocrOptionsType.html",
+      "markdown": "clean/pages/ocrOptionsType.md",
+      "chunks": 5
+    },
+    {
+      "title": "Okhttp3HttpUrl",
+      "html": "raw/okhttp3HttpUrlType.html",
+      "markdown": "clean/pages/okhttp3HttpUrlType.md",
+      "chunks": 1
+    },
+    {
+      "title": "Okhttp3Request",
+      "html": "raw/okhttp3RequestType.html",
+      "markdown": "clean/pages/okhttp3RequestType.md",
+      "chunks": 5
+    },
+    {
+      "title": "全能类型 (Omnipotent Types)",
+      "html": "raw/omniTypes.html",
+      "markdown": "clean/pages/omniTypes.md",
+      "chunks": 6
+    },
+    {
+      "title": "OpenCCConversion",
+      "html": "raw/openCCConversionType.html",
+      "markdown": "clean/pages/openCCConversionType.md",
+      "chunks": 31
+    },
+    {
+      "title": "OpenCC",
+      "html": "raw/opencc.html",
+      "markdown": "clean/pages/opencc.md",
+      "chunks": 65
+    },
+    {
+      "title": "OpenCVPoint",
+      "html": "raw/opencvPointType.html",
+      "markdown": "clean/pages/opencvPointType.md",
+      "chunks": 7
+    },
+    {
+      "title": "OpenCVRect",
+      "html": "raw/opencvRectType.html",
+      "markdown": "clean/pages/opencvRectType.md",
+      "chunks": 6
+    },
+    {
+      "title": "OpenCVSize",
+      "html": "raw/opencvSizeType.html",
+      "markdown": "clean/pages/opencvSizeType.md",
+      "chunks": 8
+    },
+    {
+      "title": "综述 (Overview)",
+      "html": "raw/overview.html",
+      "markdown": "clean/pages/overview.md",
+      "chunks": 1
+    },
+    {
+      "title": "插件 (Plugins)",
+      "html": "raw/plugins.html",
+      "markdown": "clean/pages/plugins.md",
+      "chunks": 13
+    },
+    {
+      "title": "代码填泥 (Polyfill)",
+      "html": "raw/polyfill.html",
+      "markdown": "clean/pages/polyfill.md",
+      "chunks": 4
+    },
+    {
+      "title": "文档部署进度 (Progress)",
+      "html": "raw/progress.html",
+      "markdown": "clean/pages/progress.md",
+      "chunks": 1
+    },
+    {
+      "title": "疑难解答 (Q & A)",
+      "html": "raw/qa.html",
+      "markdown": "clean/pages/qa.md",
+      "chunks": 27
+    },
+    {
+      "title": "二维码 (QR Code)",
+      "html": "raw/qrcode.html",
+      "markdown": "clean/pages/qrcode.md",
+      "chunks": 1
+    },
+    {
+      "title": "记录器 (Recorder)",
+      "html": "raw/recorder.html",
+      "markdown": "clean/pages/recorder.md",
+      "chunks": 25
+    },
+    {
+      "title": "运行时 (Runtime)",
+      "html": "raw/runtime.html",
+      "markdown": "clean/pages/runtime.md",
+      "chunks": 4
+    },
+    {
+      "title": "标准化 (Standardization)",
+      "html": "raw/s13n.html",
+      "markdown": "clean/pages/s13n.md",
+      "chunks": 5
+    },
+    {
+      "title": "脚本化 Java",
+      "html": "raw/scriptingJava.html",
+      "markdown": "clean/pages/scriptingJava.md",
+      "chunks": 15
+    },
+    {
+      "title": "传感器 (Sensors)",
+      "html": "raw/sensors.html",
+      "markdown": "clean/pages/sensors.md",
+      "chunks": 11
+    },
+    {
+      "title": "Shell",
+      "html": "raw/shell.html",
+      "markdown": "clean/pages/shell.md",
+      "chunks": 56
+    },
+    {
+      "title": "Shizuku",
+      "html": "raw/shizuku.html",
+      "markdown": "clean/pages/shizuku.md",
+      "chunks": 4
+    },
+    {
+      "title": "Index",
+      "html": "raw/sidebar.html",
+      "markdown": "clean/pages/sidebar.md",
+      "chunks": 2
+    },
+    {
+      "title": "Storage (存储类)",
+      "html": "raw/storageType.html",
+      "markdown": "clean/pages/storageType.md",
+      "chunks": 11
+    },
+    {
+      "title": "存储 (Storages)",
+      "html": "raw/storages.html",
+      "markdown": "clean/pages/storages.md",
+      "chunks": 5
+    },
+    {
+      "title": "任务 (Tasks)",
+      "html": "raw/tasks.html",
+      "markdown": "clean/pages/tasks.md",
+      "chunks": 1
+    },
+    {
+      "title": "线程 (Threads)",
+      "html": "raw/threads.html",
+      "markdown": "clean/pages/threads.md",
+      "chunks": 21
+    },
+    {
+      "title": "定时器 (Timers)",
+      "html": "raw/timers.html",
+      "markdown": "clean/pages/timers.md",
+      "chunks": 7
+    },
+    {
+      "title": "消息浮动框 (Toast)",
+      "html": "raw/toast.html",
+      "markdown": "clean/pages/toast.md",
+      "chunks": 8
+    },
+    {
+      "title": "用户界面 (UI)",
+      "html": "raw/ui.html",
+      "markdown": "clean/pages/ui.md",
+      "chunks": 108
+    },
+    {
+      "title": "控件节点行为 (UiObjectActions)",
+      "html": "raw/uiObjectActionsType.html",
+      "markdown": "clean/pages/uiObjectActionsType.md",
+      "chunks": 104
+    },
+    {
+      "title": "控件集合 (UiObjectCollection)",
+      "html": "raw/uiObjectCollectionType.html",
+      "markdown": "clean/pages/uiObjectCollectionType.md",
+      "chunks": 115
+    },
+    {
+      "title": "控件节点 (UiObject)",
+      "html": "raw/uiObjectType.html",
+      "markdown": "clean/pages/uiObjectType.md",
+      "chunks": 268
+    },
+    {
+      "title": "选择器 (UiSelector)",
+      "html": "raw/uiSelectorType.html",
+      "markdown": "clean/pages/uiSelectorType.md",
+      "chunks": 417
+    },
+    {
+      "title": "Util",
+      "html": "raw/util.html",
+      "markdown": "clean/pages/util.md",
+      "chunks": 52
+    },
+    {
+      "title": "版本工具类 (Version)",
+      "html": "raw/versionType.html",
+      "markdown": "clean/pages/versionType.md",
+      "chunks": 28
+    },
+    {
+      "title": "万维网 (Web)",
+      "html": "raw/web.html",
+      "markdown": "clean/pages/web.md",
+      "chunks": 9
+    },
+    {
+      "title": "WebSocket",
+      "html": "raw/webSocketType.html",
+      "markdown": "clean/pages/webSocketType.md",
+      "chunks": 45
+    }
+  ]
+}

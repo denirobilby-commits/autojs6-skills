@@ -1,0 +1,10 @@
+{
+  "latest": "6.6.4",
+  "versions": {
+    "6.6.4": {
+      "path": "versions/6.6.4",
+      "format": "raw-html+markdown+jsonl+sqlite",
+      "pages": 107
+    }
+  }
+}

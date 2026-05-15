@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoJs6 Docs"
+  short_description: "Versioned offline docs for AutoJs6 Android automation"
+  default_prompt: "Use $autojs6 to answer AutoJs6 script interface, Android automation, 无障碍, 找图, OCR, and 悬浮窗 questions from the matching versioned offline docs."
