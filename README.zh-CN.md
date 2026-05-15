@@ -9,7 +9,7 @@
 使用 skills.sh CLI 安装：
 
 ```bash
-npx skills@latest add <owner>/autojs6-skills
+npx skills@latest add denirobilby-commits/autojs6-skills
 ```
 
 然后在 CLI 提示中选择 `autojs6` skill。如工具要求重启 Agent，请重启后再使用。

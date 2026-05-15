@@ -9,7 +9,7 @@ Codex/agent skills for answering AutoJs6 and Auto.js scripting questions from bu
 Install with the skills.sh CLI:
 
 ```bash
-npx skills@latest add <owner>/autojs6-skills
+npx skills@latest add denirobilby-commits/autojs6-skills
 ```
 
 Then select the `autojs6` skill in the CLI prompts and restart your agent if required.
